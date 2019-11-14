@@ -104,6 +104,7 @@
 		D85ED67A237D56A300EF4C97 /* VKSwiftyLib */ = {
 			isa = PBXGroup;
 			children = (
+				D83D35A1237D5F4C0058A30B /* .travis.yml */,
 				D85ED67B237D56A300EF4C97 /* VKSwiftyLib.h */,
 				D85ED67C237D56A300EF4C97 /* Info.plist */,
 				D83D359F237D5B9F0058A30B /* SwiftyLib.swift */,
@@ -115,7 +116,6 @@
 			isa = PBXGroup;
 			children = (
 				D85ED686237D56A300EF4C97 /* VKSwiftyLibTests.swift */,
-				D83D35A1237D5F4C0058A30B /* .travis.yml */,
 				D85ED688237D56A300EF4C97 /* Info.plist */,
 			);
 			path = VKSwiftyLibTests;
