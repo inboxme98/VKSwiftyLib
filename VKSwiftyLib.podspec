@@ -10,7 +10,7 @@ This CocoaPods library helps you perform calculation.
 
   spec.homepage     = "https://github.com/inboxme98/VKSwiftyLib"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
-  spec.author       = { "jeantimex" => "inboxme98@gmail.com" }
+  spec.author       = { "varun" => "inboxme98@gmail.com" }
 
   spec.ios.deployment_target = "9.0"
   spec.swift_version = "4.2"
