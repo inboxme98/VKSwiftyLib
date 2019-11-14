@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "VKSwiftyLib"
-  spec.version      = "master"
+  spec.version      = "0.0.1"
   spec.summary      = "A CocoaPods library written in Swift"
 
   spec.description  = <<-DESC
