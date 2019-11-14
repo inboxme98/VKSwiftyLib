@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D83D35A0237D5B9F0058A30B /* SwiftyLib.swift in Sources */ = {isa = PBXBuildFile; fileRef = D83D359F237D5B9F0058A30B /* SwiftyLib.swift */; };
+		D83D35A2237D5F4C0058A30B /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = D83D35A1237D5F4C0058A30B /* .travis.yml */; };
 		D85ED682237D56A300EF4C97 /* VKSwiftyLib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D85ED678237D56A300EF4C97 /* VKSwiftyLib.framework */; };
 		D85ED687237D56A300EF4C97 /* VKSwiftyLibTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85ED686237D56A300EF4C97 /* VKSwiftyLibTests.swift */; };
 		D85ED689237D56A300EF4C97 /* VKSwiftyLib.h in Headers */ = {isa = PBXBuildFile; fileRef = D85ED67B237D56A300EF4C97 /* VKSwiftyLib.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		D83D359F237D5B9F0058A30B /* SwiftyLib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftyLib.swift; sourceTree = "<group>"; };
+		D83D35A1237D5F4C0058A30B /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = .travis.yml; sourceTree = "<group>"; };
 		D85ED678237D56A300EF4C97 /* VKSwiftyLib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VKSwiftyLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D85ED67B237D56A300EF4C97 /* VKSwiftyLib.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VKSwiftyLib.h; sourceTree = "<group>"; };
 		D85ED67C237D56A300EF4C97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 			isa = PBXGroup;
 			children = (
 				D85ED686237D56A300EF4C97 /* VKSwiftyLibTests.swift */,
+				D83D35A1237D5F4C0058A30B /* .travis.yml */,
 				D85ED688237D56A300EF4C97 /* Info.plist */,
 			);
 			path = VKSwiftyLibTests;
@@ -264,6 +267,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D83D35A2237D5F4C0058A30B /* .travis.yml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
